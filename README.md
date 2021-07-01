@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @crysis1201
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-crysis1201/crysis1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Front end Development
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on projects using react and react - redux, i am currently doing some projects to get a good understanding of react 
+- 📫 How to reach me my instagram & twitter @eazhilamuthan 
