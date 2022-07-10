@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @crysis1201
-- 👀 I’m interested in Front end Development
+- 👋 Hi, I’m Eazhilamuthan
 - 📫 How to reach me my instagram & twitter @eazhilamuthan 
